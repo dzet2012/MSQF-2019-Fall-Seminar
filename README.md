@@ -19,8 +19,13 @@ P.S: We may add some suggested paper or small missions which are not compulsory
 #### 1st week(Aug 30th 3:00pm-6:00pm) Probability & Statistics 1
 Instructor: Yimin Li  
 Suggested text: ***Statistics Inference, by George Casella***  
-#### 2nd week(unknown) Probability & Statistics 2 | stochastic process 
+#### 2nd week(Sep 2nd) Probability & Statistics 2  
 Instructor: Yimin Li  
+#### 3rd week(Sep ？) 
+Instructor: Yimin Li
 Suggested text: ***应用随机过程，钱敏平、龚光鲁、陈大岳、章复熹合编，高等教育出版社***  
-#### 3rd week(unknown) Statistical Learning 1  
-Instructor: unknown  
+#### 4th week(unknown) Statistical Learning 1
+Instructor: unknown
+Suggested text: ***统计学习方法(2nd Edition)，李航著***
+
+Edited by 8/29/2019
